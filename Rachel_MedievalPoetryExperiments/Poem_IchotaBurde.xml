@@ -288,7 +288,7 @@
 	"id": "https://raw.githubusercontent.com/johnmcewan/2022_wand/main/Rachel_MedievalPoetryExperiments/Poem_IchotaBurde.xml?person_annotation_20230918184523120",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-09-19T01:45:23.120Z",
-	"dcterms:modified": "2023-09-19T01:45:23.120Z",
+	"dcterms:modified": "2023-09-19T02:08:12.024Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/veentune",
 		"@type": [
